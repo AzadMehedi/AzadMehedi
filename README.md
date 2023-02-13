@@ -6,7 +6,7 @@
 
 I've completed my B.Sc. in CSE. I love data. I love data science & want to be a data analyst & data scientist. I'm practicing & working in ML, EDA, statistics, SQL, calculus & related fields for data analytics & data science. I need an internship or job in the field of data analysis & data science. I love to have new & different experiences, meet people & learn a variety of things. I find the thought of creating value for my surrounding as well as the world.
 
-Skills: Python | ML | Statistics | Probability | Data Analytics | Mathematics | Power BI | Tableau | Excel | MS Office | Pandas | Numpy | SQL | Matplotlib | Seaborn | C | PHP | Laravel | HTML | CSS | JavaScript | Bootstrap
+Skills: Python | ML | Statistics | Probability | Data Analytics | Mathematics | Power BI | Tableau | Excel | MS Office | Pandas | Numpy | SQL | Matplotlib | Seaborn | C | EDA | Feature Engineering
 
 - 🔭 I’m currently working on Stats, ML, EDA, FE, Vizs etc. Projects 
 - 🌱 I’m currently learning Data Science, ML & AI Domain. 
