@@ -11,7 +11,7 @@ Skills: Python | ML | Statistics | Probability | Data Analytics | Mathematics | 
 - 🔭 I’m currently working on Stats, ML, EDA, FE, Vizs etc. Projects 
 - 🌱 I’m currently learning Data Science, ML & AI Domain. 
 - 👯 I’m looking to collaborate on LinkedIn, Facebook, GitHub 
-- 🤔 I’m looking for help with Internship, Fresher-job, Opportunity 
+- 🤔 I’m looking for Internship, Fresher-job, Opportunity 
 - 💬 Ask me about Statistics, Data Analytics, Data Science Domain 
 
 
