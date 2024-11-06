@@ -4,14 +4,13 @@
 #### I am a Data Science, ML, Statistics Enthusiast. 
 
 
-I've completed my B.Sc. in CSE. I love data. I love data science & want to be a data analyst & data scientist. I'm practicing & working in ML, EDA, statistics, SQL, calculus & related fields for data analytics & data science. I need an internship or job in the field of data analysis & data science. I love to have new & different experiences, meet people & learn a variety of things. I find the thought of creating value for my surrounding as well as the world.
+I've completed my B.Sc. in CSE. I love data. I practice data science for being data analyst & data scientist. I'm practicing & working in ML, EDA, statistics, SQL, calculus & related fields for data analytics & data science. I love to have new & different experiences, meet people & learn a variety of things. I find the thought of creating value for my surrounding as well as the world.
 
-Skills: Python | ML | Statistics | Probability | Data Analytics | Mathematics | Power BI | Tableau | Excel | MS Office | Pandas | Numpy | SQL | Matplotlib | Seaborn | C | EDA | Feature Engineering
+Skills: Python | ML | Statistics | Probability | Data Analytics | Mathematics | Power BI | Streamlit | Excel | Pandas | Numpy | SQL | Matplotlib | Seaborn |  EDA | Feature Engineering
 
-- 🔭 I’m currently working on Stats, ML, EDA, FE, Vizs etc. Projects 
-- 🌱 I’m currently learning Data Science, ML & AI Domain. 
-- 👯 I’m looking to collaborate on LinkedIn, Facebook, GitHub 
-- 🤔 I’m looking for Internship, Fresher-job, Opportunity 
+- 🔭 I’m currently working on Data Science & ML Projects 
+- 🌱 I’m continuously learning Data Science, ML & AI Domain. 
+- 🤔 I’m always looking for great Opportunities. 
 - 💬 Ask me about Statistics, Data Analytics, Data Science Domain 
 
 
