@@ -4,14 +4,14 @@
 #### I am a Data Science, ML, Statistics Enthusiast. 
 
 
-I've completed my B.Sc. in CSE. I love data. I practice data science for being data analyst & data scientist. I'm practicing & working in ML, EDA, statistics, SQL, calculus & related fields for data analytics & data science. I love to have new & different experiences, meet people & learn a variety of things. I find the thought of creating value for my surrounding as well as the world.
+I've completed my B.Sc. in CSE & M.Sc. in Applied Statistics & Data Science. I love data. I practice data science, data analysis & data engineering. I continuously practice and work in ML, EDA, statistics, SQL, PySpark, Kafka, Docker, calculus & related fields for data analytics, data science & data engineering. I love to have new & different experiences, meet people & learn a variety of things. The thought of creating value for my surroundings as well as the world.
 
-Skills: Python | ML | Statistics | Probability | Data Analytics | Mathematics | Power BI | Streamlit | Excel | Pandas | Numpy | SQL | Matplotlib | Seaborn |  EDA | Feature Engineering
+Skills: Python | ML | Statistics | Probability | Data Analytics | Mathematics | Power BI | Streamlit | Excel | Pandas | Numpy | SQL | Spark | Kafka | Docker | Matplotlib | Seaborn |  EDA | Feature Engineering
 
 - 🔭 I’m currently working on Data Science & ML Projects 
-- 🌱 I’m continuously learning Data Science, ML & AI Domain. 
+- 🌱 I’m continuously learning Data Science, Data Engineering, ML & AI Domain. 
 - 🤔 I’m always looking for great Opportunities. 
-- 💬 Ask me about Statistics, Data Analytics, Data Science Domain 
+- 💬 Ask me about Statistics, Data Analytics, and Data Science Domain 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AzadMehedi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mehediazad/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Evaan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/evanazad04/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/MehediAzad2)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/mehedi-azad)  
